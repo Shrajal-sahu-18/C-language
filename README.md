@@ -8,4 +8,9 @@ This repository conatains my journey of learning C programming from basics to ad
 ## Programs Included
 - Basic programs(Hello World)
 
+## Goal
+To build fundamentals in c programming and improving problem-solving
+skills
+
+
 
