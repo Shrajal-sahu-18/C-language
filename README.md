@@ -12,5 +12,6 @@ This repository conatains my journey of learning C programming from basics to ad
 To build fundamentals in c programming and improving problem-solving
 skills
 
-
+## Progress
+- Day 1: Basics
 
