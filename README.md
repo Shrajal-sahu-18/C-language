@@ -15,3 +15,6 @@ skills
 ## Progress
 - Day 1: Basics
 
+## Tool Used
+- Vs Code
+- GCC Compiler
