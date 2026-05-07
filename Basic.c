@@ -18,3 +18,6 @@ int main(){
 
 
 }
+
+// comment
+/* multi line comment*/
