@@ -10,7 +10,7 @@
 
 // }
 
-
+//Program for area of sqare
 #include<stdio.h>
 int main(){
     int side;
