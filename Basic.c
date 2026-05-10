@@ -54,3 +54,25 @@
 //     int z= 1,g = 2;
 //     return 0;
 // }
+
+
+
+//invaliad statement
+// #include<stdio.h>
+// int main(){
+//     int oldage = 22;
+//     int new_age = old_age * year;
+//     int a =b =c = 4;
+// }
+
+// #include<stdio.h>
+// #include<math.h>
+// int main(){
+//     int b,c;
+//     b=c=1;
+//     int a = b * c;
+//     int power = pow(b,c);
+//     printf("%d \n",power);
+//     return 0;
+
+// }
