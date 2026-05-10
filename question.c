@@ -12,13 +12,23 @@
 // }
 
 //Program for area of sqare
+// #include<stdio.h>
+// int main(){
+//     int side;
+//     printf("Enter side of sqare:");
+//     scanf("%d",&side);
+//     int sqare = side * side;
+//     printf("Area of a sqare: %d",sqare);
+//     return 0 ;
+
+// }
+
+
 #include<stdio.h>
 int main(){
-    int side;
-    printf("Enter side of sqare:");
-    scanf("%d",&side);
-    int sqare = side * side;
-    printf("Area of a sqare: %d",sqare);
-    return 0 ;
-
+    float radius;
+    printf("Enter side:");
+    scanf("%f",&radius);
+    printf("Area of a circle : %f", 3.14 * radius * radius );
+    return 0;
 }
