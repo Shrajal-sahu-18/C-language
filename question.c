@@ -34,14 +34,23 @@
 // }
 
 // Perimeter of rectangle
+// #include<stdio.h>
+// int main(){
+//     int a , b;
+//     printf("Enter length a:");
+//     scanf("%d",&a);
+//     printf("Enter width b:");
+//     scanf("%d",&b);
+//     printf("Perimeter of Rectangle : %d", (2 * (a+b)));
+//     return 0;
+
+// }
+
 #include<stdio.h>
 int main(){
-    int a , b;
-    printf("Enter length a:");
-    scanf("%d",&a);
-    printf("Enter width b:");
-    scanf("%d",&b);
-    printf("Perimeter of Rectangle : %d", (2 * (a+b)));
+    int n ;
+    printf("Enter n:");
+    scanf("%d",&n);
+    printf("Quebe of n number; %d",n*n*n);
     return 0;
-
 }
