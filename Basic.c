@@ -31,3 +31,11 @@ int main(){
     char star = '*';
     printf("star is %c \n",star);
 }
+
+// Input
+#include<stdio.h>
+int main() {
+    int age ;
+    printf("Enter age:");
+    scanf("%d",&age);
+    printf("Age is : %d \n",age);
