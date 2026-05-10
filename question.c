@@ -24,11 +24,24 @@
 // }
 
 // Area of circle
+// #include<stdio.h>
+// int main(){
+//     float radius;
+//     printf("Enter side:");
+//     scanf("%f",&radius);
+//     printf("Area of a circle : %f", 3.14 * radius * radius );
+//     return 0;
+// }
+
+
 #include<stdio.h>
 int main(){
-    float radius;
-    printf("Enter side:");
-    scanf("%f",&radius);
-    printf("Area of a circle : %f", 3.14 * radius * radius );
+    int a , b;
+    printf("Enter length a:");
+    scanf("%d",&a);
+    printf("Enter width b:");
+    scanf("%d",&b);
+    printf("Perimeter of Rectangle : %d", (2 * (a+b)));
     return 0;
+
 }
