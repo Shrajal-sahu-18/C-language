@@ -46,6 +46,8 @@
 
 // }
 
+
+// Quebe of n number
 #include<stdio.h>
 int main(){
     int n ;
