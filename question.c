@@ -33,7 +33,7 @@
 //     return 0;
 // }
 
-
+// Perimeter of rectangle
 #include<stdio.h>
 int main(){
     int a , b;
