@@ -21,3 +21,6 @@ skills
 ## Tool Used
 - Vs Code
 - GCC Compiler
+
+## Teacher
+- Shradha Khapra maa'm(Apna collage)
