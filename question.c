@@ -75,3 +75,14 @@ int main() {
    printf("%d",8^8);
     return 0;
 }
+
+
+
+
+#include<stdio.h>
+int main(){
+    int issunday = 1;
+    int issnowing = 1;
+    printf("%d \n", issunday && issnowing );
+    return 0;
+}
