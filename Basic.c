@@ -135,3 +135,28 @@ int main(){
     }
     return 0;
 }
+
+
+// #include<stdio.h>
+// int main(){
+//     char day ;
+//     printf("Entr day (1-7):");
+//     scanf("%c",&day);
+//     switch (day){
+//         case 'm': printf("monday\n");
+//              break;
+//         case 't': printf("tuesday\n");
+//              break;
+//         case 'w': printf("wedenday\n");
+//              break;
+//         case 'T': printf("thurday\n");
+//                  break;
+//         case 'f': printf("friday\n");
+//              break;
+//         case 'S': printf("saturday\n");
+//              break;
+//         case 's': printf("sunday\n");
+//              break;
+//         default : printf("not a valid day ! \n");
+//     }
+// }
