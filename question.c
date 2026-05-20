@@ -56,3 +56,14 @@ int main(){
     printf("Quebe of n number; %d",n*n*n);
     return 0;
 }
+
+#include<stdio.h>
+#include<math.h>
+int main(){
+    int b,c;
+    b=c=1;
+    int a = pow(b,c);
+    printf("%d \n", a);
+    return 0;
+
+}
