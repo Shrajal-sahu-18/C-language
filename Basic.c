@@ -106,3 +106,32 @@ int main(){
     }
     return 0;
 }
+
+
+
+
+#include<stdio.h>
+int main(){
+    int day;
+    printf("Enter day(1-7)\n");
+    scanf("%d",&day);
+    switch (day){
+        case 1:printf("monday\n");
+             break;
+        case 2 : printf("tuesday\n");
+             break;
+        case 3 : printf("wedneday\n");
+             break;
+        case 4 : printf("thurday\n");
+             break;
+        case 5 : printf("friday\n");
+             break;
+        case 6 : printf("satday\n");
+             break;
+        case 7 : printf("sunday\n");
+             break;
+
+        
+    }
+    return 0;
+}
