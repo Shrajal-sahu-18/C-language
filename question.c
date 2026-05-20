@@ -135,3 +135,15 @@ int main(){
     return 0;
  
 }
+
+
+#include<stdio.h>
+#include<stdlib.h>
+int main(){
+    int a,b;
+    printf("Enter two number:");
+    scanf("%d%d",&a,&b);
+    int smallest = (a+b-abs(a-b))/2;
+    printf("Smallest number: %d",smallest);
+    return 0;
+} 
