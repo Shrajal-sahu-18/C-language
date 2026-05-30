@@ -289,3 +289,17 @@ int main() {
 
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int main() {
+    int marks = 75;
+
+    if (marks >= 90) {
+        printf("Grade A\n");
+    }
+
+    return 0;
+}
