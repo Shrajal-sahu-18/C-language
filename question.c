@@ -311,3 +311,21 @@ int main() {
 
     return 0;
 }
+
+
+#include <stdio.h>
+
+int main() {
+    int age = 25;
+    int hasLicense = 1;
+
+    if (age >= 18) {
+        if (hasLicense) {
+            printf("Can drive\n");
+        } else {
+            printf("License required\n");
+        }
+    }
+
+    return 0;
+}
