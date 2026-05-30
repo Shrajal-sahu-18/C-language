@@ -299,6 +299,8 @@ int main() {
 
     if (marks >= 90) {
         printf("Grade A\n");
+    } else if (marks >= 70) {
+      printf("Grade B\n");
     }
 
     return 0;
