@@ -7,6 +7,7 @@ This repository conatains my journey of learning C programming from basics to ad
 - conditional Statement
 - switch case
 - Loops(For,While)
+- basic Code
   
 ## Programs Included
 - Basic programs(Hello World)
