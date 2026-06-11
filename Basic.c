@@ -162,3 +162,8 @@ int main(){
 // }
 
 // nested if else
+// #include<stdio.h>
+// int main(){
+//     int number;
+//     printf("Enter number:");
+//     scanf("%d",&number);
