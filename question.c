@@ -461,3 +461,16 @@ int main(){
     char ch;
     printf("Enter character:\n");
     scanf("%c",&ch);
+        scanf("%c",&ch);
+    if (ch >='A' && ch <='Z'){
+        printf("upper case letter\n");
+    }
+    else if(ch >='a' && ch <='z'){
+        printf("lower case letter\n");
+    }
+    else{
+        printf("Wrong English letter\n");
+    }
+    return 0;
+
+}
