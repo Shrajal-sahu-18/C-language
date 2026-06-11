@@ -187,5 +187,12 @@ int main(){
 //     printf("Enter marks(0-100):");
 //     scanf("%d",&marks);
 //     marks<= 30 ? printf("Fail"):printf("pass");
-
-
+//     // if (marks >= 0 && marks <= 30){
+//     //     printf("Fail \n");
+//     // }
+//     // else if(marks > 30 && marks <=100){
+//     //     printf("Pass \n");
+//     // }
+//     // else{
+//     //     printf("Wrong marks");
+//     // }
