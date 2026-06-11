@@ -160,3 +160,5 @@ int main(){
 //         default : printf("not a valid day ! \n");
 //     }
 // }
+
+// nested if else
