@@ -196,3 +196,12 @@ int main(){
 //     // else{
 //     //     printf("Wrong marks");
 //     // }
+//     return 0;
+
+// }
+
+// #include<stdio.h>
+// int main() {
+//     int marks;
+//     printf("Enter marks(0-100):");
+//     scanf("%d",&marks);
