@@ -179,3 +179,13 @@ int main(){
 //     }
 //     return 0;
 // }
+
+// Ternery operator
+// #include<stdio.h>
+// int main (){
+//     int marks;
+//     printf("Enter marks(0-100):");
+//     scanf("%d",&marks);
+//     marks<= 30 ? printf("Fail"):printf("pass");
+
+
