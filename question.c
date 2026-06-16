@@ -513,3 +513,19 @@ int main(){
 //     // }
 //     return 0;
 //}
+
+
+
+// #include<stdio.h>
+// int main(){
+//     int n ;
+//     printf("Enter number:");
+//     scanf("%d",&n);
+//     for(int i =1;i<=10;i++){
+//         printf("table of %d number:%d\n",n,n*i);
+//     }
+    
+//     return 0;
+
+// }
+
