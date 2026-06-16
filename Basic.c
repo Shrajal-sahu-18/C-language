@@ -292,3 +292,19 @@ int main(){
 //     }
 //     printf("End");
 // }
+
+// #include<stdio.h>
+// int main(){
+//     int n;
+//     do{
+//         printf("Enter number:");
+//         scanf("%d",&n);
+//         printf("user enter this number:%d\n",n);
+//         if (n % 2 !=0) {
+//             break;
+//         }
+//         printf("you enter even number\n");
+        
+//     } while(1);
+//     printf("Odd number\n Thank you");
+//     return 0;
