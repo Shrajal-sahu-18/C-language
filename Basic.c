@@ -241,3 +241,9 @@ int main(){
 //     int a;
 //     printf("Enter number:\n");
 //     scanf("%d",&a);
+//     // using while loop
+//     // int i = 0;
+//     // while(i <= a){
+//     //     printf("%d\n",i);
+//     //     i++;
+//     // }
