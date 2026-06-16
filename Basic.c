@@ -247,3 +247,8 @@ int main(){
 //     //     printf("%d\n",i);
 //     //     i++;
 //     // }
+  //for(int i = 0;i<=a;i++){
+//         printf("%d\n",i);
+//     }
+//  return 0;
+//}
