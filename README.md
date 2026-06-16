@@ -6,8 +6,8 @@ This repository conatains my journey of learning C programming from basics to ad
 - Basic Syntex
 - conditional Statement
 - switch case
-- Loops(For,While,do while)
-- 
+- Loop control statement(For,While,do while)
+  
   
 ## Programs Included
 - Basic programs(Hello World)
