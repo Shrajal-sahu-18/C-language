@@ -296,6 +296,7 @@ int main(){
 // #include<stdio.h>
 // int main(){
 //     int n;
+//     for (;;){}
 //     do{
 //         printf("Enter number:");
 //         scanf("%d",&n);
@@ -308,3 +309,5 @@ int main(){
 //     } while(1);
 //     printf("Odd number\n Thank you");
 //     return 0;
+
+
