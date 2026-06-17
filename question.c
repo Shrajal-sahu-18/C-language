@@ -529,3 +529,18 @@ int main(){
 
 // }
 
+
+#include<stdio.h>
+int main(){
+    int n;
+    do {
+        printf("Enter number:");
+        scanf("%d",&n);
+        if(n % 7 == 0){
+            break;
+            
+        }printf("Not a multiple of 7\n");
+    }while(1);
+    printf("Multiple of 7");
+    return 0;
+}
