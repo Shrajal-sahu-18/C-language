@@ -79,62 +79,62 @@
 
 
 
-#include<stdio.h>
-int main (){
-    int isMonday = 0;
-    int isRaining = 1;
-    printf("%d \n", isMonday || isRaining);
-}
+// #include<stdio.h>
+// int main (){
+//     int isMonday = 0;
+//     int isRaining = 1;
+//     printf("%d \n", isMonday || isRaining);
+// }
 
 
 
 
-#include<stdio.h>
-int main(){
-    int number;
-    printf("Enter number:");
-    scanf("%d",&number);
-    if(number >=0){
-        printf("positive\n");
-        if (number % 2 == 0){
-            printf("Even");
-        }else{
-            printf("odd");
-        }
-    } else{
-        printf("negative");
-    }
-    return 0;
-}
+// #include<stdio.h>
+// int main(){
+//     int number;
+//     printf("Enter number:");
+//     scanf("%d",&number);
+//     if(number >=0){
+//         printf("positive\n");
+//         if (number % 2 == 0){
+//             printf("Even");
+//         }else{
+//             printf("odd");
+//         }
+//     } else{
+//         printf("negative");
+//     }
+//     return 0;
+// }
 
 
 
 
-#include<stdio.h>
-int main(){
-    int day;
-    printf("Enter day(1-7)\n");
-    scanf("%d",&day);
-    switch (day){
-        case 1:printf("monday\n");
-             break;
-        case 2 : printf("tuesday\n");
-             break;
-        case 3 : printf("wedneday\n");
-             break;
-        case 4 : printf("thurday\n");
-             break;
-        case 5 : printf("friday\n");
-             break;
-        case 6 : printf("satday\n");
-             break;
-        case 7 : printf("sunday\n");
-             break;
+// #include<stdio.h>
+// int main(){
+//     int day;
+//     printf("Enter day(1-7)\n");
+//     scanf("%d",&day);
+//     switch (day){
+//         case 1:printf("monday\n");
+//              break;
+//         case 2 : printf("tuesday\n");
+//              break;
+//         case 3 : printf("wedneday\n");
+//              break;
+//         case 4 : printf("thurday\n");
+//              break;
+//         case 5 : printf("friday\n");
+//              break;
+//         case 6 : printf("satday\n");
+//              break;
+//         case 7 : printf("sunday\n");
+//              break;
 
         
-    }
-    return 0;
-}
+//     }
+//     return 0;
+// }
 
 
 // #include<stdio.h>
@@ -310,4 +310,17 @@ int main(){
 //     printf("Odd number\n Thank you");
 //     return 0;
 
+// continue statement
+// #include<stdio.h>
+// int main(){
+    
+//     for (int i = 1; i<=5; i++){
+//         if (i == 3){
+//             continue;
+//         }
+//         printf("%d \n", i);
+    
+//     }
 
+//     return 0;
+// }
