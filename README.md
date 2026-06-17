@@ -7,6 +7,7 @@ This repository conatains my journey of learning C programming from basics to ad
 - conditional Statement
 - switch case
 - Loop control statement(For,While,do while)
+- Control Statement(Break,Continue)
   
   
 ## Programs Included
@@ -15,6 +16,7 @@ This repository conatains my journey of learning C programming from basics to ad
 - Quebe of n number
 - sum of n natural number
 - table of n number
+- Multiple of 7
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
