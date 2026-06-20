@@ -578,3 +578,9 @@ int main(){
     printf("Factorial of %d is:%d",n,fact);
     return 0;
 }
+
+// #include<stdio.h>
+// int main(){
+//     
+//     return 0;
+// }  
