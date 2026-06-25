@@ -651,3 +651,11 @@ int main(){
         printbonjour();
     }
     return 0;
+}
+void printnamaste(){
+    printf("Hello from india namaste");
+}
+
+void printbonjour(){
+    printf("Hello from french Bonjour");
+}
