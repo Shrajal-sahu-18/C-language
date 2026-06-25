@@ -615,3 +615,23 @@ int main(){
 //     printf("End");
 //    return 0;
 // }
+
+
+
+// #include<stdio.h>
+// void printHello();
+// void printgoodbye();
+// int main(){
+//     printHello();
+//     printgoodbye();
+
+//     return 0;
+// }
+
+// void printHello(){
+//     printf("Hello world:\n");
+// }
+
+// void printgoodbye(){
+//     printf("good bye\n");
+// }
