@@ -18,6 +18,8 @@ This repository conatains my journey of learning C programming from basics to ad
 - table of n number
 - Multiple of 7
 - Factorial of n number
+- revrese number
+- print number 1 to 10 use break at 3
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
