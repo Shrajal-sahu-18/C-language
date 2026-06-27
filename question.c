@@ -684,3 +684,8 @@ int add(int a, int b) {
 void greet(char *name) {
     printf("Hello, %s!\n", name);
 }
+
+// Function with multiple params
+float average(int a, int b, int c) {
+    return (a + b + c) / 3.0;
+}
