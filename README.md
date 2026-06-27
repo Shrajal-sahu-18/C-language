@@ -8,6 +8,7 @@ This repository conatains my journey of learning C programming from basics to ad
 - switch case
 - Loop control statement(For,While,do while)
 - Control Statement(Break,Continue)
+- Function
   
   
 ## Programs Included
