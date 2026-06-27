@@ -659,3 +659,10 @@ void printnamaste(){
 void printbonjour(){
     printf("Hello from french Bonjour");
 }
+
+
+#include <stdio.h>
+
+// Function declaration (prototype)
+int add(int a, int b);
+
