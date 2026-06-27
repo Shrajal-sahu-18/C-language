@@ -675,3 +675,12 @@ int main() {
 int add(int a, int b) {
     return a + b;
 }
+
+
+
+#include <stdio.h>
+
+// void function – returns nothing
+void greet(char *name) {
+    printf("Hello, %s!\n", name);
+}
