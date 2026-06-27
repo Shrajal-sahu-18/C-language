@@ -665,4 +665,9 @@ void printbonjour(){
 
 // Function declaration (prototype)
 int add(int a, int b);
+int main() {
+    int result = add(5, 3);
+    printf("Sum = %d\n", result);  // Output: Sum = 8
+    return 0;
+}
 
