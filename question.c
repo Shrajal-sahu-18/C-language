@@ -689,3 +689,8 @@ void greet(char *name) {
 float average(int a, int b, int c) {
     return (a + b + c) / 3.0;
 }
+int main() {
+    greet("Alice");                          // Hello, Alice!
+    printf("Avg = %.2f\n", average(4, 8, 6)); // Avg = 6.00
+    return 0;
+}
