@@ -699,3 +699,8 @@ int main() {
 
 // prototype (declaration) — tells compiler the signature
 int add(int a, int b);
+int main() {
+    int result = add(3, 4);   // call
+    printf("%d\n", result);    // 7
+    return 0;
+}
