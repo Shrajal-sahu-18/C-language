@@ -717,3 +717,8 @@ void print_line(int n) {
         printf("-");
     printf("\n");
 }
+int main() {
+    greet("Alice");   // Hello, Alice!
+    print_line(10);  // ----------
+    return 0;
+}
