@@ -694,3 +694,8 @@ int main() {
     printf("Avg = %.2f\n", average(4, 8, 6)); // Avg = 6.00
     return 0;
 }
+
+
+
+// prototype (declaration) — tells compiler the signature
+int add(int a, int b);
