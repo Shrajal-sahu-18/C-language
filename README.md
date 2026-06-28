@@ -3,6 +3,8 @@
 This repository conatains my journey of learning C programming from basics to advanced topics.
 
 ## Repo Strucutre
+```
+Basic.c
 
 ## Topic Covered
 - Basic Syntex
