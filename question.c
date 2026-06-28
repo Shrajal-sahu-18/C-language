@@ -712,3 +712,8 @@ int add(int a, int b) {
 void greet(char *name) {
     printf("Hello, %s!\n", name);
 }
+void print_line(int n) {
+    for (int i = 0; i < n; i++)
+        printf("-");
+    printf("\n");
+}
