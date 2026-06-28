@@ -4,7 +4,10 @@ This repository conatains my journey of learning C programming from basics to ad
 
 ## Repo Strucutre
 ```
-Basic.c
+Basic.c/
+questionc.c/
+
+```
 
 ## Topic Covered
 - Basic Syntex
