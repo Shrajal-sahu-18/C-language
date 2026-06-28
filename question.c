@@ -704,3 +704,7 @@ int main() {
     printf("%d\n", result);    // 7
     return 0;
 }
+// definition — the actual body
+int add(int a, int b) {
+    return a + b;
+}
