@@ -29,6 +29,7 @@ questionc.c/
 - Factorial of n number
 - revrese number
 - print number 1 to 10 use break at 3
+- Function to Check Even or Odd
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
