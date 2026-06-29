@@ -740,3 +740,8 @@ int main()
 
     return 0;
 }
+
+
+#include <stdio.h>
+
+void checkEvenOdd(int n)
