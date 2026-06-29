@@ -30,6 +30,7 @@ questionc.c/
 - revrese number
 - print number 1 to 10 use break at 3
 - Function to Check Even or Odd
+- Function to Find Maximum Number
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
