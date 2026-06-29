@@ -734,3 +734,9 @@ int maximum(int a, int b)
     else
         return b;
 }
+int main()
+{
+    printf("Maximum = %d", maximum(15, 30));
+
+    return 0;
+}
