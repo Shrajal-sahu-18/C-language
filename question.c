@@ -741,7 +741,7 @@ int main()
     return 0;
 }
 
-
+//Function to Check Even or Odd
 #include <stdio.h>
 
 void checkEvenOdd(int n)
