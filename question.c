@@ -751,3 +751,9 @@ void checkEvenOdd(int n)
     else
         printf("Odd");
 }
+int main()
+{
+    checkEvenOdd(17);
+
+    return 0;
+}
