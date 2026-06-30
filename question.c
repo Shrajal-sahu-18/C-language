@@ -799,3 +799,6 @@ int main() {
     int num;
     printf("Enter a number: ");
     scanf("%d", &num);
+        printf("Factorial of %d is %lld\n", num, factorial(num));
+    return 0;
+}
