@@ -802,3 +802,7 @@ int main() {
         printf("Factorial of %d is %lld\n", num, factorial(num));
     return 0;
 }
+
+
+#include <stdio.h>
+#include <string.h>
