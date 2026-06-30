@@ -773,3 +773,8 @@ int isPrime(int n) {
     }
     return 1;  // prime
 }
+int main() {
+    int num;
+
+    printf("Enter a number: ");
+    scanf("%d", &num);
