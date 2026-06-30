@@ -817,3 +817,7 @@ int isPalindrome(char str[]) {
     }
     return 1;
 }
+int main() {
+    char str[100];
+    printf("Enter a string: ");
+    scanf("%s", str);
