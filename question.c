@@ -806,3 +806,6 @@ int main() {
 
 #include <stdio.h>
 #include <string.h>
+int isPalindrome(char str[]) {
+    int left = 0;
+    int right = strlen(str) - 1;
