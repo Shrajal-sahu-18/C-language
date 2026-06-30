@@ -795,3 +795,7 @@ long long factorial(int n) {
         return 1;
     return n * factorial(n - 1);  // recursive call
 }
+int main() {
+    int num;
+    printf("Enter a number: ");
+    scanf("%d", &num);
