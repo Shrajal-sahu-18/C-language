@@ -878,3 +878,14 @@ void checkEvenOdd(int n)
     else
         printf("Odd");
 }
+int main()
+{
+    int num;
+
+    printf("Enter a number: ");
+    scanf("%d", &num);
+
+    checkEvenOdd(num);
+
+    return 0;
+}
