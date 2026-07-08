@@ -958,3 +958,11 @@ void printnamaste(){
 #include<stdio.h>
 void printnamaste();
 void printbonjour();
+
+void printnamaste(){
+    printf("Hello from india namaste");
+}
+
+void printbonjour(){
+    printf("Hello from french Bonjour");
+}
