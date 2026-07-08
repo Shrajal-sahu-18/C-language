@@ -940,6 +940,8 @@ int main()
 }
 
 #include<stdio.h>
+void printhello();
+void printnamaste();
 int main(){
     return 0;
 }
