@@ -943,6 +943,8 @@ int main()
 void printhello();
 void printnamaste();
 int main(){
+    printhello();
+    printnamaste();
     return 0;
 }
 void printhello(){
