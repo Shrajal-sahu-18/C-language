@@ -953,3 +953,8 @@ void printhello(){
 void printnamaste(){
     printf("namaste");
 }
+
+
+#include<stdio.h>
+void printnamaste();
+void printbonjour();
