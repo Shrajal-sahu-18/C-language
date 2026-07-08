@@ -958,6 +958,19 @@ void printnamaste(){
 #include<stdio.h>
 void printnamaste();
 void printbonjour();
+int main(){
+    printf("Enter i for india & f for french:");
+    char country;
+    scanf("%c",&country);
+    if (country == 'i'){
+        printnamaste();
+    }else{
+        printbonjour();
+    }
+    return 0;
+
+    
+}
 
 void printnamaste(){
     printf("Hello from india namaste");
