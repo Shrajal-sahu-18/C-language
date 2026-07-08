@@ -945,3 +945,9 @@ void printnamaste();
 int main(){
     return 0;
 }
+void printhello(){
+    printf("Hello");
+}
+void printnamaste(){
+    printf("namaste");
+}
