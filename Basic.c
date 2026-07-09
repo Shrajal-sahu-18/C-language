@@ -349,3 +349,11 @@
 // void printHello(){
 //     printf("hello world!");
 // }
+
+
+// Function definition
+int add(int a, int b)
+{
+    return a + b;
+}
+
