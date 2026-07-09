@@ -379,3 +379,14 @@ int main()
     printf("Sum = %d", add(10, 20));
     return 0;
 }
+
+
+#include <stdio.h>
+
+void checkEvenOdd(int n)
+{
+    if (n % 2 == 0)
+        printf("Even");
+    else
+        printf("Odd");
+}
