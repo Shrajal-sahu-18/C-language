@@ -356,4 +356,8 @@ int add(int a, int b)
 {
     return a + b;
 }
+int main()
+{
+    int num1 = 10, num2 = 20;
+    int result;
 
