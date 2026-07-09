@@ -415,3 +415,8 @@ void prime(int n)
 
     printf("Prime");
 }
+int main()
+{
+    prime(17);
+    return 0;
+}
