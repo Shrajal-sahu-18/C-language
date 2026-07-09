@@ -395,3 +395,23 @@ int main()
     checkEvenOdd(15);
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+void prime(int n)
+{
+    int i;
+
+    for (i = 2; i < n; i++)
+    {
+        if (n % i == 0)
+        {
+            printf("Not Prime");
+            return;
+        }
+    }
+
+    printf("Prime");
+}
