@@ -390,3 +390,8 @@ void checkEvenOdd(int n)
     else
         printf("Odd");
 }
+int main()
+{
+    checkEvenOdd(15);
+    return 0;
+}
