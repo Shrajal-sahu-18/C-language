@@ -437,3 +437,8 @@ int reverse(int n)
 
     return rev;
 }
+int main()
+{
+    printf("%d", reverse(1234));
+    return 0;
+}
