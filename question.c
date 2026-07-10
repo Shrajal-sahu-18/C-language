@@ -997,3 +997,7 @@ int main(){
 int sum(int x,int y){
     return x + y;
 }
+
+
+#include<stdio.h>
+void printtable(int n);
