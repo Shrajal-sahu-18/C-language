@@ -979,3 +979,9 @@ void printnamaste(){
 void printbonjour(){
     printf("Hello from french Bonjour");
 }
+
+#include<stdio.h>
+int main(){
+    
+    return 0;
+}
