@@ -1001,3 +1001,9 @@ int sum(int x,int y){
 
 #include<stdio.h>
 void printtable(int n);
+int main(){
+    int n;
+    printf("Enter number:");
+    scanf("%d",&n);
+    printtable(n);
+}
