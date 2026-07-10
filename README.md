@@ -32,6 +32,7 @@ questionc.c/
 - Function to Check Even or Odd
 - Function to Find Maximum Number
 - table of n number using function
+- Sum of two number using function
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
