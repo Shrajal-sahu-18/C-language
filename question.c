@@ -1035,3 +1035,11 @@ int main(){
     printf("Sqare of n:%f",pow(n,2));
     return 0;
 }
+
+
+
+#include<stdio.h>
+#include<math.h>
+float squarearea(float side);
+float circlearea(float rad);
+float rectanglearea(float a, float b);
