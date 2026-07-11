@@ -1043,3 +1043,10 @@ int main(){
 float squarearea(float side);
 float circlearea(float rad);
 float rectanglearea(float a, float b);
+int main(){
+    float a = 5.0;
+    float b = 10.0;
+    printf("Area of rectangle:%f",rectanglearea(a,b));
+
+    return 0;
+}
