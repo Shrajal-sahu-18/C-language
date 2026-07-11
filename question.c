@@ -1020,9 +1020,10 @@ void calculateprice(float value);
 int main(){
     float value = 100.0;
     calculateprice(value);
+    printf("value is %f",value);
     return 0;
 }
 void calculateprice(float value){
     value = value + (0.18 * value);
-    printf("Final Price:%f",value);
+    printf("Final Price:%f\n",value);
 }
