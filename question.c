@@ -1013,3 +1013,9 @@ void printtable(int n){
         printf("%d\n",n*i);
     }
 }
+
+
+#include<stdio.h>
+int main(){
+    return 0;
+}
