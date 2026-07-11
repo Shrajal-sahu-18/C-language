@@ -1047,9 +1047,19 @@ int main(){
     float a = 5.0;
     float b = 10.0;
     printf("Area of rectangle:%f",rectanglearea(a,b));
+    int side = 4;
+    printf("Area of square:%f",squarearea(side));
+
 
     return 0;
 }
+float squarearea(float side){
+    return side * side;
+}
+float circlearea(float rad){
+    return 3.14 * rad* rad;
+}
+
 
 float rectanglearea(float a,float b){
     return a * b;
