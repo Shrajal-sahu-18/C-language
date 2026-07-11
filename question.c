@@ -1022,3 +1022,7 @@ int main(){
     calculateprice(value);
     return 0;
 }
+void calculateprice(float value){
+    value = value + (0.18 * value);
+    printf("Final Price:%f",value);
+}
