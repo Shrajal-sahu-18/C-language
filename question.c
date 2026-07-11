@@ -1030,3 +1030,8 @@ void calculateprice(float value){
 
 #include<stdio.h>
 #include<math.h>
+int main(){
+    int n = 4;
+    printf("Sqare of n:%f",pow(n,2));
+    return 0;
+}
