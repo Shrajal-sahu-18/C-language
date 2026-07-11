@@ -31,6 +31,8 @@ questionc.c/
 - print number 1 to 10 use break at 3
 - Function to Check Even or Odd
 - Function to Find Maximum Number
+- table of n number using function
+- Sum of two number using function
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
