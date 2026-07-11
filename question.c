@@ -1016,6 +1016,7 @@ void printtable(int n){
 
 
 #include<stdio.h>
+void calculateprice(float value);
 int main(){
     float value = 100.0;
     calculateprice(value);
