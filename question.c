@@ -1027,3 +1027,6 @@ void calculateprice(float value){
     value = value + (0.18 * value);
     printf("Final Price:%f\n",value);
 }
+
+#include<stdio.h>
+#include<math.h>
