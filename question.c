@@ -1050,3 +1050,7 @@ int main(){
 
     return 0;
 }
+
+float rectanglearea(float a,float b){
+    return a * b;
+}
