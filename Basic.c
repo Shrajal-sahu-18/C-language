@@ -442,3 +442,15 @@ int main()
     printf("%d", reverse(1234));
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int maximum(int a, int b)
+{
+    if (a > b)
+        return a;
+    else
+        return b;
+}
