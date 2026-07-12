@@ -500,3 +500,14 @@ int factorial(int n)
 
     return fact;
 }
+int main()
+{
+    int num;
+
+    printf("Enter a number: ");
+    scanf("%d", &num);
+
+    printf("Factorial = %d", factorial(num));
+
+    return 0;
+}
