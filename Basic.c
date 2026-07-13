@@ -559,3 +559,16 @@ int main()
     printf("%d", cube(4));
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+void swap(int *a, int *b)
+{
+    int temp;
+
+    temp = *a;
+    *a = *b;
+    *b = temp;
+}
