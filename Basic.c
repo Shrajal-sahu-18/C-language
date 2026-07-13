@@ -540,3 +540,8 @@ int square(int n)
 {
     return n * n;
 }
+int main()
+{
+    printf("%d", square(8));
+    return 0;
+}
