@@ -545,3 +545,12 @@ int main()
     printf("%d", square(8));
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int cube(int n)
+{
+    return n * n * n;
+}
