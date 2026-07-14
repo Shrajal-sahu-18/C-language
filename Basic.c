@@ -616,3 +616,18 @@ int countDigits(int n)
 
     return count;
 }
+
+
+
+
+int main()
+{
+    int n;
+
+    printf("Enter number: ");
+    scanf("%d", &n);
+
+    printf("Digits = %d", countDigits(n));
+
+    return 0;
+}
