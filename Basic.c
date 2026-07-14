@@ -679,3 +679,13 @@ void checkNumber(int n)
     else
         printf("Zero");
 }
+int main()
+{
+    int n;
+
+    scanf("%d", &n);
+
+    checkNumber(n);
+
+    return 0;
+}
