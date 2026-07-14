@@ -583,3 +583,13 @@ int main()
 
     return 0;
 }
+
+
+
+
+#include <stdio.h>
+
+void greet()
+{
+    printf("Welcome to C Programming");
+}
