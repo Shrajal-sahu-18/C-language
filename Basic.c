@@ -664,3 +664,18 @@ int main()
 
     return 0;
 }
+
+
+
+
+#include <stdio.h>
+
+void checkNumber(int n)
+{
+    if (n > 0)
+        printf("Positive");
+    else if (n < 0)
+        printf("Negative");
+    else
+        printf("Zero");
+}
