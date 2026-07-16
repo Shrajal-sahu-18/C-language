@@ -763,3 +763,14 @@ void fibonacci(int n)
         b = c;
     }
 }
+int main()
+{
+    int n;
+
+    printf("Enter number of terms: ");
+    scanf("%d", &n);
+
+    fibonacci(n);
+
+    return 0;
+}
