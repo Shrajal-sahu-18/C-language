@@ -704,3 +704,14 @@ int sumDigits(int n)
 
     return sum;
 }
+int main()
+{
+    int num;
+
+    printf("Enter a number: ");
+    scanf("%d", &num);
+
+    printf("Sum of Digits = %d", sumDigits(num));
+
+    return 0;
+}
