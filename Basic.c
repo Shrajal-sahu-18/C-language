@@ -717,7 +717,7 @@ int main()
 }
 
 
-
+// palindrome number
 #include <stdio.h>
 
 int reverse(int n)
