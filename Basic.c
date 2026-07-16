@@ -690,6 +690,7 @@ int main()
     return 0;
 }
 
+// sum of digits
 #include <stdio.h>
 
 int sumDigits(int n)
