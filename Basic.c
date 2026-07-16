@@ -732,3 +732,17 @@ int reverse(int n)
 
     return rev;
 }
+int main()
+{
+    int num;
+
+    printf("Enter a number: ");
+    scanf("%d", &num);
+
+    if(num == reverse(num))
+        printf("Palindrome");
+    else
+        printf("Not Palindrome");
+
+    return 0;
+}
