@@ -667,7 +667,7 @@ int main()
 
 
 
-
+// check number
 #include <stdio.h>
 
 void checkNumber(int n)
