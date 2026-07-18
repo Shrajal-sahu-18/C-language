@@ -1074,7 +1074,8 @@ int main() {
     
     printf("Enter number of elements: ");
     scanf("%d", &n);
-     int arr[n];
+    
+    int arr[n];
     
     printf("Enter %d elements:\n", n);
     for (i = 0; i < n; i++)
@@ -1088,3 +1089,9 @@ int main() {
         if (arr[i] < min)
             min = arr[i];
     }
+    
+    printf("Maximum: %d\n", max);
+    printf("Minimum: %d\n", min);
+    
+    return 0;
+}
