@@ -1064,3 +1064,13 @@ float circlearea(float rad){
 float rectanglearea(float a,float b){
     return a * b;
 }
+
+
+
+#include <stdio.h>
+
+int main() {
+    int n, i;
+    
+    printf("Enter number of elements: ");
+    scanf("%d", &n);
