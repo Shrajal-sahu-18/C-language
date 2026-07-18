@@ -1104,3 +1104,9 @@ int main() {
 int main() {
     char str[100];
     int i, len;
+    printf("Enter a string: ");
+    fgets(str, sizeof(str), stdin);
+    
+    len = strlen(str);
+    if (str[len - 1] == '\n')
+        len--;
