@@ -1120,7 +1120,7 @@ int main() {
 }
 
 
-#Factorial using recursion
+//Factorial using recursion
 #include <stdio.h>
 
 int factorial(int n) {
@@ -1143,7 +1143,7 @@ int main() {
 }
 
 
-
+// Fibonacci using recursion
 #include <stdio.h>
 
 int fibonacci(int n) {
