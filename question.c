@@ -1222,3 +1222,13 @@ int reverse(int n)
 
     return rev;
 }
+int main()
+{
+    int num = 121;
+
+    if(num == reverse(num))
+        printf("Palindrome");
+    else
+        printf("Not Palindrome");
+
+    return 0;
