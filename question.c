@@ -1206,7 +1206,7 @@ int countDigits(int n)
     return count;
 }
 
-
+#pailandrome
 
 #include <stdio.h>
 
