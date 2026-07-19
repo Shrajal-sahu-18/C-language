@@ -1232,3 +1232,4 @@ int main()
         printf("Not Palindrome");
 
     return 0;
+}
