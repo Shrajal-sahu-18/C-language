@@ -1203,3 +1203,5 @@ int countDigits(int n)
         count++;
         n = n / 10;
     }
+    return count;
+}
