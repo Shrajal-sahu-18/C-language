@@ -1233,3 +1233,12 @@ int main()
 
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int power(int base, int exp)
+{
+    // Logic here
+}
