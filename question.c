@@ -1291,3 +1291,5 @@ int main()
 
     printf("LCM = %d", lcm(a, b));
 
+    return 0;
+}
