@@ -1282,3 +1282,12 @@ int lcm(int a, int b)
 {
     // Logic here
 }
+int main()
+{
+    int a, b;
+
+    printf("Enter two numbers: ");
+    scanf("%d%d", &a, &b);
+
+    printf("LCM = %d", lcm(a, b));
+
