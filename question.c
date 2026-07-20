@@ -1253,3 +1253,12 @@ int main()
 
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int gcd(int a, int b)
+{
+    // Logic here
+}
