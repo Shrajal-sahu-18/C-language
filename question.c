@@ -1251,3 +1251,5 @@ int main()
 
     printf("Answer = %d", power(base, exp));
 
+    return 0;
+}
