@@ -1262,3 +1262,12 @@ int gcd(int a, int b)
 {
     // Logic here
 }
+int main()
+{
+    int a, b;
+
+    printf("Enter two numbers: ");
+    scanf("%d%d", &a, &b);
+
+    printf("GCD = %d", gcd(a, b));
+
