@@ -1271,3 +1271,5 @@ int main()
 
     printf("GCD = %d", gcd(a, b));
 
+    return 0;
+}
