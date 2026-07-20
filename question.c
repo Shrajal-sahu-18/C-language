@@ -1273,3 +1273,12 @@ int main()
 
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int lcm(int a, int b)
+{
+    // Logic here
+}
