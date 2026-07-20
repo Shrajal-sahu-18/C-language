@@ -1242,3 +1242,12 @@ int power(int base, int exp)
 {
     // Logic here
 }
+int main()
+{
+    int base, exp;
+
+    printf("Enter base and exponent: ");
+    scanf("%d%d", &base, &exp);
+
+    printf("Answer = %d", power(base, exp));
+
