@@ -1307,3 +1307,5 @@ int main() {
         printf("Alphabet");
     else
         printf("Not an Alphabet");
+    return 0;
+}
