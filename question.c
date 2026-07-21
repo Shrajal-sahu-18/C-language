@@ -1320,3 +1320,5 @@ int main() {
     scanf("%c", &ch);
 
     printf("ASCII = %d", ch);
+    return 0;
+}
