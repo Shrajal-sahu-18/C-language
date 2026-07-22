@@ -1322,3 +1322,10 @@ int main() {
     printf("ASCII = %d", ch);
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int main() {
+    char ch;
