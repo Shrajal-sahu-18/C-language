@@ -33,6 +33,9 @@ questionc.c/
 - Function to Find Maximum Number
 - table of n number using function
 - Sum of two number using function
+- fibonacci series
+- factorial using recursion
+- count digits 
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
