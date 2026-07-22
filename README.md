@@ -34,6 +34,7 @@ questionc.c/
 - table of n number using function
 - Sum of two number using function
 - fibonacci series
+- factorial using recursion
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
