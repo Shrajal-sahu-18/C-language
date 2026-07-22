@@ -33,6 +33,7 @@ questionc.c/
 - Function to Find Maximum Number
 - table of n number using function
 - Sum of two number using function
+- fibonacci series
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
