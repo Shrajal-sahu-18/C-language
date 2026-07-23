@@ -1378,3 +1378,7 @@ int main() {
         if (a % gcd == 0 && b % gcd == 0)
             break;
     }
+    printf("GCD = %d", gcd);
+
+    return 0;
+}
