@@ -1338,3 +1338,13 @@ int main() {
         printf("Not an Alphabet");
         return 0;
 }
+
+
+
+#include <stdio.h>
+
+int main() {
+    int n, i, j, prime;
+
+    printf("Enter N: ");
+    scanf("%d", &n);
