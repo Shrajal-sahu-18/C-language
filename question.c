@@ -1365,3 +1365,12 @@ int main() {
 
     return 0;
 }
+
+
+#include <stdio.h>
+
+int main() {
+    int a, b, gcd;
+
+    printf("Enter two numbers: ");
+    scanf("%d%d", &a, &b);
