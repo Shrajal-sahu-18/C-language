@@ -1374,10 +1374,12 @@ int main() {
 
     printf("Enter two numbers: ");
     scanf("%d%d", &a, &b);
-     for (gcd = (a < b ? a : b); gcd >= 1; gcd--) {
+
+    for (gcd = (a < b ? a : b); gcd >= 1; gcd--) {
         if (a % gcd == 0 && b % gcd == 0)
             break;
     }
+
     printf("GCD = %d", gcd);
 
     return 0;
