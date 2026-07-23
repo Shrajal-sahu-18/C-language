@@ -1357,3 +1357,11 @@ int main() {
                 break;
             }
         }
+                }
+
+    if (prime)
+            printf("%d ", i);
+    }
+
+    return 0;
+}
