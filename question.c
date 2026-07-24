@@ -1426,3 +1426,5 @@ int main() {
         default:
             printf("Invalid Operator");
     }
+        return 0;
+}
