@@ -1443,3 +1443,6 @@ int main() {
         printf("Vowel");
     else
         printf("Not Vowel");
+    
+    return 0;
+}
