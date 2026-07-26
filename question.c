@@ -1463,3 +1463,7 @@ int main() {
 
         n /= 10;
     }
+        printf("Smallest digit = %d", smallest);
+
+    return 0;
+}
