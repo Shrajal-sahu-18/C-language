@@ -1453,3 +1453,8 @@ int main() {
 
 int main() {
     int n, digit, smallest = 9;
+     printf("Enter number: ");
+    scanf("%d", &n);
+
+    while (n != 0) {
+        digit = n % 10;
