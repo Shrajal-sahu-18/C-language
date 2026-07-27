@@ -1487,4 +1487,9 @@ int main() {
 
         n /= 10;
     }
+        printf("Even digits = %d\n", even);
+    printf("Odd digits = %d\n", odd);
+
+    return 0;
+}
 
