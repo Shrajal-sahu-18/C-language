@@ -1469,7 +1469,7 @@ int main() {
 }
 
 
-
+// count even or odd digits
 #include <stdio.h>
 
 int main() {
