@@ -1475,3 +1475,8 @@ int main() {
 int main() {
     int n, digit;
     int even = 0, odd = 0;
+       printf("Enter number: ");
+    scanf("%d", &n);
+
+    while (n != 0) {
+        digit = n % 10;
