@@ -1480,3 +1480,11 @@ int main() {
 
     while (n != 0) {
         digit = n % 10;
+             if (digit % 2 == 0)
+            even++;
+        else
+            odd++;
+
+        n /= 10;
+    }
+
