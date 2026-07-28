@@ -1512,3 +1512,7 @@ int main() {
 
     printf("Area = %.2f\n", area);
     printf("Perimeter = %.2f\n", perimeter);
+
+
+    return 0;
+}
