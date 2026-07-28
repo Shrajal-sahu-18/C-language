@@ -1505,3 +1505,6 @@ int main() {
 
     printf("Enter width: ");
     scanf("%f", &width);
+
+    area = length * width;
+    perimeter = 2 * (length + width);
