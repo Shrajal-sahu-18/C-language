@@ -1499,3 +1499,6 @@ int main() {
 
 int main() {
     float length, width, area, perimeter;
+
+    printf("Enter length: ");
+    scanf("%f", &length);
