@@ -1502,3 +1502,6 @@ int main() {
 
     printf("Enter length: ");
     scanf("%f", &length);
+
+    printf("Enter width: ");
+    scanf("%f", &width);
