@@ -1530,3 +1530,7 @@ int main() {
         if (n % i == 0)
             sum += i;
     }
+        if (sum == n)
+        printf("Perfect Number");
+    else
+        printf("Not a Perfect Number");
