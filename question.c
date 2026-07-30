@@ -1548,3 +1548,10 @@ int main() {
 
     printf("Enter number: ");
     scanf("%d", &n);
+     temp = n;
+    last = n % 10;
+
+    while (temp > 0) {
+        digits++;
+        temp /= 10;
+    }
