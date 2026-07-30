@@ -1561,3 +1561,9 @@ int main() {
 
     first = n / power;
     middle = (n % power) / 10;
+        int swapped = last * power + middle * 10 + first;
+
+    printf("Number after swapping = %d", swapped);
+
+    return 0;
+}
