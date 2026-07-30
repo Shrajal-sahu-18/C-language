@@ -1537,3 +1537,14 @@ int main() {
     
     return 0;
 }
+
+
+
+
+#include <stdio.h>
+
+int main() {
+    int n, temp, first, last, digits = 0, power = 1, middle;
+
+    printf("Enter number: ");
+    scanf("%d", &n);
