@@ -1555,3 +1555,9 @@ int main() {
         digits++;
         temp /= 10;
     }
+        power = 1;
+    for (int i = 1; i < digits; i++)
+        power *= 10;
+
+    first = n / power;
+    middle = (n % power) / 10;
