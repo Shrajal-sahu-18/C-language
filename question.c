@@ -1577,3 +1577,8 @@ int main() {
 
     printf("Enter four numbers: ");
     scanf("%d%d%d%d", &a, &b, &c, &d);
+
+        largest = a;
+
+    if (b > largest)
+        largest = b;
