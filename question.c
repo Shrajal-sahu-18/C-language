@@ -1574,3 +1574,6 @@ int main() {
 
 int main() {
     int a, b, c, d, largest;
+
+    printf("Enter four numbers: ");
+    scanf("%d%d%d%d", &a, &b, &c, &d);
