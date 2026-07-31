@@ -1582,3 +1582,9 @@ int main() {
 
     if (b > largest)
         largest = b;
+
+    if (c > largest)
+        largest = c;
+
+    if (d > largest)
+        largest = d;
