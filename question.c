@@ -1588,3 +1588,8 @@ int main() {
 
     if (d > largest)
         largest = d;
+
+        printf("Largest = %d\n", largest);
+
+    return 0;
+}
