@@ -1615,4 +1615,7 @@ int main() {
     printf("Minutes = %d\n", minutes);
     printf("Seconds = %d\n", seconds);
 
+    return 0;
+}
+
 
