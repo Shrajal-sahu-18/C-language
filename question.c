@@ -1600,3 +1600,6 @@ int main() {
 
 int main() {
     int seconds, hours, minutes;
+
+    printf("Enter total seconds: ");
+    scanf("%d", &seconds);
