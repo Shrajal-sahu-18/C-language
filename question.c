@@ -1603,3 +1603,7 @@ int main() {
 
     printf("Enter total seconds: ");
     scanf("%d", &seconds);
+
+
+    hours = seconds / 3600;
+    seconds = seconds % 3600;
