@@ -1593,3 +1593,10 @@ int main() {
 
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int main() {
+    int seconds, hours, minutes;
