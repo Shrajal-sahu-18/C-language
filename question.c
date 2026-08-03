@@ -1619,4 +1619,8 @@ int main() {
 }
 
 
-//Find the Area and Perimeter of a Rectangle
+#include <stdio.h>
+
+int main() {
+    int n, digit;
+    int product = 1;
