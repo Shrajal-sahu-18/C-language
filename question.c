@@ -1624,3 +1624,6 @@ int main() {
 int main() {
     int n, digit;
     int product = 1;
+
+    printf("Enter number: ");
+    scanf("%d", &n);
