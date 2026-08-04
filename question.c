@@ -1627,3 +1627,9 @@ int main() {
 
     printf("Enter number: ");
     scanf("%d", &n);
+
+       while (n != 0) {
+        digit = n % 10;
+        product *= digit;
+        n /= 10;
+    }
