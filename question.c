@@ -1633,3 +1633,7 @@ int main() {
         product *= digit;
         n /= 10;
     }
+        printf("Product = %d", product);
+
+    return 0;
+}
