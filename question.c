@@ -1618,7 +1618,7 @@ int main() {
     return 0;
 }
 
-
+//Product of digit
 #include <stdio.h>
 
 int main() {
