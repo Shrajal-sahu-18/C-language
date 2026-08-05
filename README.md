@@ -37,6 +37,7 @@ questionc.c/
 - factorial using recursion
 - count digits
 - Convert Seconds into Hours, Minutes, and Seconds
+-  count even or odd digits
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
