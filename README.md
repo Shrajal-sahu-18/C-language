@@ -35,7 +35,8 @@ questionc.c/
 - Sum of two number using function
 - fibonacci series
 - factorial using recursion
-- count digits 
+- count digits
+- Convert Seconds into Hours, Minutes, and Seconds
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
