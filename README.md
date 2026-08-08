@@ -35,7 +35,10 @@ questionc.c/
 - Sum of two number using function
 - fibonacci series
 - factorial using recursion
-- count digits 
+- count digits
+- Convert Seconds into Hours, Minutes, and Seconds
+-  count even or odd digits
+-  Find the Sum of Even Numbers from 1 to N
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
