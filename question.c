@@ -1654,3 +1654,9 @@ int main() {
     
     return 0;
 }
+
+#include <stdio.h>
+
+int main() {
+    int arr[5];
+    int sum = 0;
