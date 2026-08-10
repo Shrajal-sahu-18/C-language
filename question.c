@@ -1667,3 +1667,5 @@ int main() {
         scanf("%d", &arr[i]);
         sum += arr[i];
     }
+
+    printf("Sum = %d", sum);
