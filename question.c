@@ -1655,6 +1655,8 @@ int main() {
     return 0;
 }
 
+
+// sum of array
 #include <stdio.h>
 
 int main() {
