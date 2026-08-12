@@ -1683,3 +1683,5 @@ int main() {
 int main() {
     float a, b;
     char op;
+    printf("Enter expression (e.g. 10 + 5): ");
+    scanf("%f %c %f", &a, &op, &b);
