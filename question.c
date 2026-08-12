@@ -1685,3 +1685,8 @@ int main() {
     char op;
     printf("Enter expression (e.g. 10 + 5): ");
     scanf("%f %c %f", &a, &op, &b);
+
+    switch (op) {
+        case '+':
+        printf("%.2f", a + b);
+        break;
