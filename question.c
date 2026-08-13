@@ -1702,3 +1702,7 @@ int main() {
     case '/':
     printf("%.2f", a / b);
     break;
+
+    default:
+    printf("Invalid operator");
+}
