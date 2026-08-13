@@ -1698,3 +1698,7 @@ int main() {
     case '*':
     printf("%.2f", a * b);
     break;
+
+    case '/':
+    printf("%.2f", a / b);
+    break;
