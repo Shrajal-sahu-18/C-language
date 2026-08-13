@@ -39,6 +39,7 @@ questionc.c/
 - Convert Seconds into Hours, Minutes, and Seconds
 -  count even or odd digits
 -  Find the Sum of Even Numbers from 1 to N
+-  Simple calculator
 
 ## Goal
 To build fundamentals in c programming and improving problem-solving
