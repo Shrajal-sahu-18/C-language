@@ -1715,3 +1715,5 @@ int main() {
 
 int main() {
     int n, sum = 0;
+    printf("Enter number: ");
+    scanf("%d", &n);
