@@ -1722,3 +1722,7 @@ int main() {
         sum = sum + n % 10;
         n = n / 10;
     }
+    printf("Sum = %d", sum);
+
+    return 0;
+}
