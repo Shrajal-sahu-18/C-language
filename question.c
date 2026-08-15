@@ -1733,3 +1733,5 @@ int main() {
 int square(int n) {
     return n * n;
 }
+int main() {
+    int n, result;
