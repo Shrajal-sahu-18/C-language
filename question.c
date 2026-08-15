@@ -1726,3 +1726,10 @@ int main() {
 
     return 0;
 }
+
+
+#include <stdio.h>
+
+int square(int n) {
+    return n * n;
+}
