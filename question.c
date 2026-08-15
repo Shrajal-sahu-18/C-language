@@ -1741,3 +1741,7 @@ int main() {
     scanf("%d", &n);
 
     result = square(n);
+        printf("Square = %d", result);
+
+    return 0;
+}
