@@ -1745,3 +1745,14 @@ int main() {
 
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int maximum(int a, int b) {
+    if (a > b)
+        return a;
+    else
+        return b;
+}
