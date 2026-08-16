@@ -1760,3 +1760,8 @@ int maximum(int a, int b) {
 
 int main() {
     int a, b, result;
+
+    printf("Enter two numbers: ");
+    scanf("%d %d", &a, &b);
+
+    result = maximum(a, b);
