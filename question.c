@@ -1765,3 +1765,8 @@ int main() {
     scanf("%d %d", &a, &b);
 
     result = maximum(a, b);
+
+    printf("Maximum = %d", result);
+
+    return 0;
+}
