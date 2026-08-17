@@ -1786,3 +1786,5 @@ int isPrime(int n) {
 }
 int main() {
     int n;
+    printf("Enter a number: ");
+    scanf("%d", &n);
