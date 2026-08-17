@@ -1770,3 +1770,11 @@ int main() {
 
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int isPrime(int n) {
+    if (n <= 1)
+        return 0;
