@@ -1788,3 +1788,10 @@ int main() {
     int n;
     printf("Enter a number: ");
     scanf("%d", &n);
+    if (isPrime(n))
+        printf("Prime");
+    else
+        printf("Not Prime");
+
+    return 0;
+}
