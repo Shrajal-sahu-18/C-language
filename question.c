@@ -1813,3 +1813,7 @@ int main() {
     printf("Before swap: %d %d\n", a, b);
 
     swap(&a, &b);
+    printf("After swap: %d %d", a, b);
+
+    return 0;
+}
