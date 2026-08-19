@@ -1832,3 +1832,5 @@ int main() {
     result = square(n);
 
     printf("Square = %d", result);
+    return 0;
+}
