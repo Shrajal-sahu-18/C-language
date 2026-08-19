@@ -1827,3 +1827,5 @@ int square(int n) {
 }
 int main() {
     int n, result;
+    printf("Enter a number: ");
+    scanf("%d", &n);
