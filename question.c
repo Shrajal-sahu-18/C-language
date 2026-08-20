@@ -1834,3 +1834,10 @@ int main() {
     printf("Square = %d", result);
     return 0;
 }
+
+
+
+#include <stdio.h>
+
+int main() {
+    int n, a = 0, b = 1, c;
