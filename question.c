@@ -1841,3 +1841,6 @@ int main() {
 
 int main() {
     int n, a = 0, b = 1, c;
+
+    printf("Enter number of terms: ");
+    scanf("%d", &n);
