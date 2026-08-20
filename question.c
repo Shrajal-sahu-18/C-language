@@ -1844,3 +1844,5 @@ int main() {
 
     printf("Enter number of terms: ");
     scanf("%d", &n);
+    for (int i = 1; i <= n; i++) {
+        printf("%d ", a);
